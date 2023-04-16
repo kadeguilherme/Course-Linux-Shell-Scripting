@@ -1,3 +1,5 @@
+# Resumo
+
 ## hello-world.sh
 
 <details>
@@ -12,3 +14,15 @@
 </details>
 
 
+## UID.sh
+
+<details>
+  <summary>RESUMO</summary>
+
+- Variavel predefinidas
+- Variavel do Shell
+- Armazernar a saída do comando em uma variavel
+- Uso do if
+- Avaliador de expressões no Shell Script, como [[ ... ]]
+
+</details>
