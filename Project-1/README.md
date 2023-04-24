@@ -48,7 +48,7 @@ OBS: Pode ser usado o **==** para comparacao.
 <details>
   <summary>RESUMO</summary>
 
-- Uso do ** read** built in
+- Uso do **read** built in
 - Uso do comando *useradd* para criar usuario
 - Uso do comando *passwd* muda a senha do usuario
 
