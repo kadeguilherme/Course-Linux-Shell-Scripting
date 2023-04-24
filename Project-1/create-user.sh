@@ -18,4 +18,5 @@ useradd -c "${COMMENT}" -m ${USER_NAME}
 #Set the password for the user.
 echo ${PASSWORD} | passwd --stdin ${USER_NAME}
 #Force password chande on first login
+passwd -d ${USER_NAME}
 passwd -e ${USER_NAME}

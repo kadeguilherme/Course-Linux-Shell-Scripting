@@ -42,3 +42,14 @@
 OBS: Pode ser usado o **==** para comparacao.
 
 </details>
+
+## create-user.sh
+
+<details>
+  <summary>RESUMO</summary>
+
+- Uso do ** read** built in
+- Uso do comando *useradd* para criar usuario
+- Uso do comando *passwd* muda a senha do usuario
+
+</details>
