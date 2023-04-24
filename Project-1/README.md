@@ -36,8 +36,9 @@
 - Variavel UID
 - Uso do if
 - Armazenar a saida do comondo em uma variavel
-- Status de saida apos o if *exit 1*
-- Variavel especial *?* status do comando executado recentemente
-- O uso do *=* pode ser um atribuido à variavel ou ser uma comparacao entre string. obs: Pode ser usado o *==* para comparcao.
+- Status de saida apos o if **exit 1**
+- Variavel especial **?** .status do comando executado recentemente
+- O uso do *=* pode ser um atribuido à variavel ou ser uma comparacao entre string.   
+OBS: Pode ser usado o **==** para comparacao.
 
 </details>
