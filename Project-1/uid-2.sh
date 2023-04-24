@@ -23,7 +23,7 @@ then
 	echo 'The id command did not execute succesfully.'
 	exit 1
 fi
-echo "YOur user name is ${USER_NAME}"
+echo "Your user name is ${USER_NAME}"
 
 #You can use a string test conditional
 USER_NAME_TO_TESTE_FOR='vagrant'

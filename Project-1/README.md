@@ -14,7 +14,7 @@
 </details>
 
 
-## UID.sh
+## uid.sh
 
 <details>
   <summary>RESUMO</summary>
@@ -24,5 +24,20 @@
 - Armazernar a saída do comando em uma variavel
 - Uso do if
 - Avaliador de expressões no Shell Script, como [[ ... ]]
+
+</details>
+
+
+## uid-2.sh
+
+<details>
+  <summary>RESUMO</summary>
+
+- Variavel UID
+- Uso do if
+- Armazenar a saida do comondo em uma variavel
+- Status de saida apos o if *exit 1*
+- Variavel especial *?* status do comando executado recentemente
+- O uso do *=* pode ser um atribuido à variavel ou ser uma comparacao entre string. obs: Pode ser usado o *==* para comparcao.
 
 </details>
