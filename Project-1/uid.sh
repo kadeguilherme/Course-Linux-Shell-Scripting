@@ -11,7 +11,7 @@ USER_NAME=$(id -un)
 echo "YOur username is ${USER_NAME}"
 
 #Display if the user is the root user or not
-if [[ "$DUI}" -eq 0 ]]
+if [[ "${DUI}" -eq 0 ]]
 then
 	echo 'You are root'
 else

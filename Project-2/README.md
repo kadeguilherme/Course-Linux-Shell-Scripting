@@ -13,3 +13,16 @@
 - Comando shuf permuta linhas de entrada e exibe as linhas embaralhadas
 
 </details>
+
+## loop.sh
+<details>
+  <summary>RESUMO</summary>
+
+- Parametro posicional argumentos passados para o script
+- Parametro posicional especial `${0}`, `${#}`, `${*}`, `${@}`, `${?}`
+- Variavel PATH onde o shell procurar programas executaveis quando um comando é digitado no terminal
+- dirname, extrai o nome do diretorio de um caminho de arquivo especificado
+- basename extrai o nome base de um caminho de arquivo especificado, removendo o diretorio
+- for loop
+</details>
+
