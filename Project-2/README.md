@@ -26,3 +26,13 @@
 - for loop
 </details>
 
+## while-loop.sh
+<details>
+  <summary>RESUMO</summary>
+
+- Wilhe loop
+- Imprimindo parametros passados no shell, com ${1}, ${2}, ... ${N+1}
+- Uso do comando shift usado para desolocar argumento 
+</details>
+
+
